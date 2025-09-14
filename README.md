@@ -9,7 +9,7 @@ Welcome to the Article Analyzer, an NLP-driven processing pipeline designed for 
 **Sentiment Analysis Pipeline**: Analyzes linguistic features, including positivity score, polarity score, and more
 **Text Preprocessing**: Implements tokenization, stopword removal, and stemming/lemmatization
 **Data Storage**: Saves processed features in CSV files and articles in 100 individual text files
-**Feature Extraction**: Extracts over 1,000+ feature records from 100 articles
+**Feature Extraction**: Extracts over 1,000+ feature records from 100 articles 
 
 ## Coming Soon
 
@@ -82,4 +82,4 @@ ArticleAnalyzer/
 If you're interested in contributing to Article Analyzer, please reach out to the repository owner.
 
 ## Contact
-GitHub: ABHISHEKEKREProject Link: https://github.com/ABHISHEKEKRE/ArticleAnalyzer
+GitHub: rohitdinvi Project Link: https://github.com/rohitdinvi/Article-Analyzer
