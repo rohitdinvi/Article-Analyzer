@@ -51,7 +51,7 @@ pip install -r requirements.txt
 4. Run the pipeline
 
 
-python AbhishekeKRE_NLP.ipynb
+python RohitDubey_NLP.ipynb
 
 ## Project Structure
 ```
@@ -67,7 +67,7 @@ ArticleAnalyzer/
 ### For Users
 
 - Prepare a CSV file with article URLs and place it in the appropriate directory
-- Run the AbhishekeKRE_NLP.ipynb notebook to scrape, process, and analyze articles
+- Run the RohitDubey_NLP.ipynb notebook to scrape, process, and analyze articles
 - Check the text_articles/ directory for processed article text files and refer to Output Data Structure.xlsx for feature details
 
 ## Current Progress
